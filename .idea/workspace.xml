@@ -23,23 +23,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="personagem.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projetos/O Senhor dos Aneis/personagem.html">
+      <file leaf-file-name="chaves.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projetos/chaves/chaves.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
+            <state relative-caret-position="45">
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
               <folding>
-                <element signature="e#2577#2583#0" expanded="true" />
+                <element signature="e#2711#2717#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="estilo.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="estilo.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projetos/chaves/estilo.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="153" column="5" selection-start-line="153" selection-start-column="5" selection-end-line="153" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="estilo.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projetos/O Senhor dos Aneis/estilo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+            <state relative-caret-position="221">
+              <caret line="138" column="22" selection-start-line="138" selection-start-column="22" selection-end-line="138" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -67,11 +77,11 @@
         <option value="$PROJECT_DIR$/projetos/blog-dos-smurfs/estilo.css" />
         <option value="$PROJECT_DIR$/projetos/O Senhor dos Aneis/recursos/Frodo.txt" />
         <option value="$PROJECT_DIR$/exemplos/classes-ids.html" />
-        <option value="$PROJECT_DIR$/projetos/chaves/estilo.css" />
-        <option value="$PROJECT_DIR$/projetos/chaves/chaves.html" />
         <option value="$PROJECT_DIR$/projetos/O Senhor dos Aneis/estilo-print.css" />
         <option value="$PROJECT_DIR$/projetos/O Senhor dos Aneis/personagem.html" />
         <option value="$PROJECT_DIR$/projetos/O Senhor dos Aneis/estilo.css" />
+        <option value="$PROJECT_DIR$/projetos/chaves/estilo.css" />
+        <option value="$PROJECT_DIR$/projetos/chaves/chaves.html" />
       </list>
     </option>
   </component>
@@ -134,28 +144,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="O Senhor dos Aneis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PedroNobre - HTML5 &amp; CSS Layout" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PedroNobre - HTML5 &amp; CSS Layout" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projetos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="O Senhor dos Aneis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -315,12 +303,12 @@
       <option name="presentableId" value="Default" />
       <updated>1477138229698</updated>
       <workItem from="1477138232460" duration="18399000" />
-      <workItem from="1477222825266" duration="18988000" />
+      <workItem from="1477222825266" duration="22295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37387000" />
+    <option name="totallyTimeSpent" value="40694000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1637" height="1053" extended-state="0" />
@@ -493,24 +481,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projetos/chaves/estilo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-133">
-          <caret line="64" column="26" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projetos/chaves/chaves.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-          <folding>
-            <element signature="e#2694#2700#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projetos/O Senhor dos Aneis/estilo-print.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -521,8 +491,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projetos/O Senhor dos Aneis/personagem.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
+        <state relative-caret-position="542">
+          <caret line="70" column="76" selection-start-line="70" selection-start-column="76" selection-end-line="70" selection-end-column="76" />
           <folding>
             <element signature="e#2577#2583#0" expanded="true" />
           </folding>
@@ -531,9 +501,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projetos/O Senhor dos Aneis/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        <state relative-caret-position="221">
+          <caret line="138" column="22" selection-start-line="138" selection-start-column="22" selection-end-line="138" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetos/chaves/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="153" column="5" selection-start-line="153" selection-start-column="5" selection-end-line="153" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetos/chaves/chaves.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <element signature="e#2711#2717#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

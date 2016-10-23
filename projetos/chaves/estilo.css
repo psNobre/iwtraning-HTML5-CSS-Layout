@@ -16,19 +16,19 @@ body{
 }
 
 header{
-    width: 720px;
+    width: 100%;
 }
 
 h1{
-    width: 720px;
+    width: 100%;
     height: 95px;
-    background: url("st_topo.jpg") no-repeat;
+    background: url("st_topo.jpg") no-repeat left;
     text-indent: -5000px;
 }
 
 nav ul{
     background-color: greenyellow;
-    padding-top: 7px;
+    padding: 7px;
     padding-left: 20px;
     width: 490px;
     border-top: 4px solid darkgreen;
@@ -67,7 +67,7 @@ h2 {
 
     #conteudo {
         /*background-color: #990000;*/
-        width: 720px;
+        width: 100%;
         overflow: auto;
         padding: 10px;
 
@@ -124,7 +124,59 @@ footer{
     clear: both;
     text-align: center;
     background-color: greenyellow;
-    width: 720px;
+    width: 100%;
     padding: 10px;
     font-size: 12px;
+}
+
+
+@media screen and (max-width: 720px) {
+
+    header p {
+        display: none;
+    }
+
+    nav ul{
+        background-color: greenyellow;
+        padding-top: 7px;
+        padding-left: 20px;
+        width: 100%;
+        border-top: 4px solid darkgreen;
+        border-bottom: 1px solid green;
+    }
+
+    #site{
+        width: 100%;
+    }
+
+    #esquerda {
+        width: calc( 100% - 200px );
+    }
+
+}
+
+@media screen and (max-width: 490px) {
+
+    #esquerda, #direita {
+        float: none;
+    }
+
+    #esquerda {
+        width: 100%
+
+    }
+
+    #direita{
+        width: 100%;
+        border-left: none;
+        border-top: 1px solid #f2f2f2;
+    }
+
+    #direita li{
+
+        margin-top: 10px;
+    }
+
+
+
 }
