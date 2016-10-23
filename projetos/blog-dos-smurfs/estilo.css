@@ -1,0 +1,49 @@
+body{
+    font-family: Arial;
+    background-color: ghostwhite;
+}
+
+h1, h2{
+    color: #993300;
+
+}
+
+h1{
+    /*border-bottom-width: 1px;*/
+    /*border-bottom-style: solid;*/
+    /*border-bottom-color: #993300;*/
+
+    border-bottom: solid 1px  #993300;
+}
+
+img {
+
+    border: solid 1px;
+    border-color: gainsboro;
+}
+
+ul {
+    padding: 10px 0 0 20px;
+    height: 30px;
+    background-color: gainsboro;
+}
+
+    li{
+        list-style: none;
+        display: inline; /* Seta propriedade em linha */
+        margin-right: 20px;
+
+    }
+
+    a:link, a:visited {
+        font-size: 14px;
+        font-weight: bold;
+        color: #990000;
+        text-decoration: none; /* Retira o underline */
+
+    }
+
+    a:hover, a:active{
+        color: #999999;
+
+    }

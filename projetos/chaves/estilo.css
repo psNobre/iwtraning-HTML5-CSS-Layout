@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial;
+    font-size: 12px;
+}
+
+#site {
+    width: 720px;
+    margin: auto;
+
+}
+
+header{
+    width: 720px;
+}
+
+h1{
+    width: 720px;
+    height: 95px;
+    background: url("st_topo.jpg") no-repeat;
+    text-indent: -5000px;
+}
+
+nav ul{
+    background-color: greenyellow;
+    padding-top: 7px;
+    padding-left: 20px;
+    width: 490px;
+    border-top: 4px solid darkgreen;
+    /*border-bottom: 1px solid green;*/
+    float: left;
+
+}
+    nav li{
+        font-weight: bold;
+        list-style: none;
+        display: inline;
+        margin-right: 10px;
+
+    }
+
+#info{
+    border-top: 4px solid darkgreen;
+    border-bottom: 1px solid green;
+    background-color: greenyellow;
+    padding: 7px;
+    padding-left: 20px;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+    a:link, a:visited{
+        text-decoration: none;
+        color: black;
+    }
+
+    a:hover, a:active{
+        color:  darkgreen;
+    }
+
+    #conteudo {
+        /*background-color: #990000;*/
+        width: 720px;
+        overflow: auto;
+        padding: 10px;
+
+    }
+
+    #esquerda{
+        /*background-color: #999999;*/
+        width: 500px;
+        float: left;
+    }
+
+        #esquerda h2{
+            margin-bottom: 10px;
+        }
+
+            #esquerda article{
+                margin-bottom: 50px;
+                font-style: italic;
+                overflow: auto;
+
+
+                }
+                #esquerda h3{
+                    margin-bottom: 5px;
+                }
+
+        .foto{
+            margin-right: 10px;
+            float: left;
+
+        }
+
+    #direita{
+        float: right;
+        width: 200px;
+        border-left: 1px solid #f2f2f2;
+    }
+
+        #direita h2{
+            text-align: center;
+            /*text-indent: -5000px;*/
+            display: none;
+        }
+            #direita li{
+                margin-bottom: 10px;
+                list-style: none;
+                text-align: center;
+            }
+
+
+footer{
+    border-bottom: 4px solid darkgreen;
+    border-top: 1px solid green;
+    clear: both;
+    text-align: center;
+    background-color: greenyellow;
+    width: 720px;
+    padding: 10px;
+    font-size: 12px;
+}
